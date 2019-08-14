@@ -1,0 +1,10 @@
+dl
+voter
+aadhar back
+aadhar front
+aadhar full
+others
+pan
+passport back
+passport front
+voter back

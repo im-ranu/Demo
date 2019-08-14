@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressCircula">
+        <attr name="pgc_showProgress" format="boolean" />
+        <attr name="pgc_indeterminate" format="boolean" />
+        <attr name="pgc_textColor" format="color" />
+        <attr name="pgc_rimColor" format="color" />
+        <attr name="pgc_progress" format="integer" />
+        <attr name="pgc_rimWidth" format="dimension" />
+        <attr name="pgc_speed" format="float" />
+    </declare-styleable>
+</resources>
